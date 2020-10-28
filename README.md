@@ -6,4 +6,8 @@ Retrieves data from Google's [Pi API](https://pi.delivery/)
 
 ## Usage
 
-{domain}/pi?start=0&numberOfDigits=1000
+{baseUrl}/pi?numberOfDigits=1000
+
+## Consumers
+
+https://www.grantavery.com/pi/
